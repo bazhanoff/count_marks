@@ -1,0 +1,35 @@
+.login {
+    min-height: 100vh;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.login__content {
+    width: 230px;
+}
+
+.login__field {
+    display: block;
+    width: 100%;
+}
+
+.login__field:first-of-type {
+    margin-bottom: 20px;
+}
+
+.login__input {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+}
+
+.login__hint {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.login__button {
+    margin-top: 20px;
+}

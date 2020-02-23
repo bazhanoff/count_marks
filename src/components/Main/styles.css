@@ -1,0 +1,19 @@
+.main__title {
+    text-align: center;
+}
+
+.mark__caption {
+    display: inline-block;
+    width: 135px;
+    margin-right: 15px;
+}
+
+.field {
+    margin-bottom: 20px;
+}
+
+.field__hint {
+    display: inline-block;
+    width: 135px;
+    margin-right: 15px;
+}
